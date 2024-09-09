@@ -21,3 +21,9 @@ def division(x,y):
 
 resultado = division(6,2)
 print(resultado)
+
+def potencia(x,y):
+    return x**y
+
+resultado = potencia(2,3)
+print(resultado)
