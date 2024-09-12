@@ -5,6 +5,7 @@ resultado=suma(5,3)
 print(resultado)
 
 def resta(x,y):
+    " Esta funcion resta dos numeros"
     return x-y
 
 resultado = resta(4-2)
