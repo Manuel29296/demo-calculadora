@@ -27,8 +27,8 @@ def potencia(x,y):
     return x**y
 
 def otro(x,y):
-    " Aqui explico como hice esto"
-    return x**y
+    "Cambio a multiplicación"
+    return x*y
 
 resultado = potencia(2,3)
 print(resultado)
