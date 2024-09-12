@@ -32,3 +32,5 @@ def otro(x,y):
 
 resultado = potencia(2,3)
 print(resultado)
+
+##Te voy a dañar el código
