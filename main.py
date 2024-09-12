@@ -32,3 +32,5 @@ def otro(x,y):
 
 resultado = potencia(2,3)
 print(resultado)
+
+# Tomaba tekyla desde que tenia 15, esa baby mira como con ojos de lince
