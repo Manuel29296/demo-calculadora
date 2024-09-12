@@ -25,5 +25,8 @@ print(resultado)
 def potencia(x,y):
     return x**y
 
+def otro(x,y):
+    return x**y
+
 resultado = potencia(2,3)
 print(resultado)
